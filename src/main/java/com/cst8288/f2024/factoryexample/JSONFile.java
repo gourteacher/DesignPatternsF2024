@@ -10,6 +10,7 @@ package com.cst8288.f2024.factoryexample;
  */
 public class JSONFile implements Document {
     
+    //Task 1 : complete open() in JSONFile
     @Override
     public String open() {
         return "";

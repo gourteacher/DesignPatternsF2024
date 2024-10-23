@@ -10,6 +10,7 @@ package com.cst8288.f2024.factoryexample;
  */
 public class PDFFile implements Document {
     
+    //Task 2 : complete open() in PDFFile
      public String open() {
         return "";
     }

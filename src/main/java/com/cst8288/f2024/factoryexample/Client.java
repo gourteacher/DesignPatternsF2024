@@ -3,6 +3,18 @@
  */
 package com.cst8288.f2024.factoryexample;
 
+/*
+TODOS:
+    Task 1 : complete open() in JSONFile
+    Task 2 : complete open() in PDFFile
+    Task 3 : complete createFile in PDFFileCreator
+    Task 4 : complete createFile in JSONFileCreator
+
+    Each team member must pick up 1 task, complete it, 
+    then create a Pull Request to merge.
+
+*/
+
 public class Client {
    
     public static void main(String[] args) {

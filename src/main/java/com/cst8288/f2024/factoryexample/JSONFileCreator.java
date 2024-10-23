@@ -10,6 +10,7 @@ package com.cst8288.f2024.factoryexample;
  */
 public class JSONFileCreator extends FileCreator {
     
+    //Task 4 : complete createFile in JSONFileCreator
     @Override
     public Document createFile() {
         return null;
